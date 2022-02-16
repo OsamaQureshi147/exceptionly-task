@@ -1,0 +1,36 @@
+.card-left {
+  background-color: #252525;
+  color: white;
+  width: 38%;
+  padding: 70px;
+}
+
+.card-right {
+  text-align: center;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-right-bottom {
+  background: rgba(37, 37, 37, 0.9);
+  border-radius: 0px 0px 4px 0px;
+  display: flex;
+  justify-content: center;
+  font-size: 14px;
+  color: white;
+}
+
+.form-container {
+  padding: 50px 50px;
+}
+
+.dot-image {
+  margin-bottom: 40px;
+}
+
+p {
+  letter-spacing: 1px;
+  line-height: 24px;
+}

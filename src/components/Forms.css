@@ -1,0 +1,21 @@
+.button {
+  border: none;
+  text-transform: uppercase;
+  color: #4285f4;
+  cursor: pointer;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
+
+.icons-container {
+  display: flex;
+  justify-content: center;
+}
+
+.signup-text {
+  font-size: 13px;
+  letter-spacing: 0;
+}
