@@ -5,11 +5,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url("./assets/background.svg");
-  width: 100vw;
-  height: 120vh;
-  padding: 10px;
-  justify-content: center;
   align-items: center;
+  min-height: 100vh;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
 }
 
 code {
